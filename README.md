@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-
+   cd c-personal-reference-code-
 ```
 
 Install dependencies
@@ -41,7 +41,7 @@ Start the server
 ## Installation 
 
 Install excalidraw scema editor.
-paste it ctrl+p
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```bash 
   ext install pomdtr.excalidraw-editor
