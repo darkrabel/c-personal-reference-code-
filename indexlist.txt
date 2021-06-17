@@ -1,0 +1,75 @@
+this is the list which tutriol contents which files.
+1.introduction to  c++ and visual studio setup
+2.basic stucture and c++ programs
+3.varibale and comments.
+4.variable scope && data types
+5.basic input and output
+6.header files && operator
+7.referance variable
+8.constants manupulator and operator precedence
+9 .control stucture if else and switch case statement -/home/faheem/Music/c++_video/c++/C___Control_Structures%2C_If_Else_and_Switch-Case_Statement___C___Tutorials_for_Beginners_%239(1080p).mp4
+10. for , whilwe and do while loops in c++
+11.break and contunine statements in c++
+12.pointers in c++
+13.array and pointers in c++
+14.structures, Unions & enums in c++
+15.function and function protypes in c++
+16.call by value & call by referance
+17.inline function, defualt Arguments
+18.recursion and recursive functrion
+19. function overloading with examples
+20.object oriendind programing
+21.class ,public and private access modifiers-/home/faheem/Music/c++_video/c++/Classes%2C_Public_and_Private_access_modifiers_in_C_____C___Tutorials_for_Beginners_%2321(1080p).mp4
+22.OOps Reacap & nesting of members functrion
+23.c++ objects memory allocation using Arrays in classes
+24.static data members & methods in c++ opps
+25.array and obejects passing as function Arguments
+26.Friend Function in c++
+27.frien classes & membr friend functions in c++
+28.more on c++ freind function
+29. constructors in c++.
+30. paramized and defualt constructors
+31.constructors oversloading in c++
+32.constructors with defualt Arguments
+33.dynamic intialazation of objects using constructors
+34.copy constructors
+35.destructor in c++
+36.inheritiance & its different types with examples
+37.single inheritiance deep dive
+38.protected access Modifier in c++
+39.protected acess modifiers in c++
+40.multilevel inheritiance DeeP dive
+41.multilevel inheritiance code examples in c++
+42.exercise on c++
+43.Ambigully Resolution in inheritiance in c++
+44.virtual base class in c++=
+45.code example demonesting in c+++
+46.constructors in derived class in  c++
+47.solution to exercise on cpp inheritiance
+48.code example: constructors in deprived class
+49.intialazation in list in constructors in cpp
+50. revisiting pointers : new and delete keywoard in cppp
+51.pointers to object and arow operator
+52.array of objects and Arrow operator
+53.this pointer in c++
+54.polymorphism
+55.pointer to deprived calsses in c++
+56.vitual function in c++
+57.virtual function example + creation rules in c++
+58.abstract base class & pure virtual functions in c++
+59.File l/0 in c++: working with files
+60.file l/o in c++ :reading and writing in files
+61.file l/o in c++ :read/write in the same program & closhing files
+62.file l/o in c++ :open() and eof() functons
+63.templates: must for competetive programing
+64.writing our first template in Vs code
+65.templates: template with multiple parameters
+66.template: class templates with defualt program
+67.c++ function templates & funtion templates with paramwters
+68.memer function templates& over loadinga
+69.The c++ template standard libary
+70.containers in c++ stl
+71.vector in c++ stl
+72.list in c++ stl
+73..map in c++ stl
+74.funtions objects (funtors)
