@@ -24,6 +24,14 @@ Install dependencies
 ```bash
   sudo apt install g++
   
+  
+```
+Install excalidraw scema editor.
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+```bash 
+  ext install pomdtr.excalidraw-editor
+  
 ```
 
 
@@ -34,15 +42,9 @@ Install dependencies
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
-## Installation 
+ 
 
-Install excalidraw scema editor.
-Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
-```bash 
-  ext install pomdtr.excalidraw-editor
-  
-```
     
 ## Authors
 
