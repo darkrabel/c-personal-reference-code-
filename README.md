@@ -26,7 +26,7 @@ Install dependencies
   
   
 ```
-Install excalidraw scema editor.
+to see note Install excalidraw scema editor.
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```bash 
