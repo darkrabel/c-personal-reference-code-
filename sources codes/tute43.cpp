@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//this file has the ambiguity problem.
 class Base1{
     public:
         void greet(){
