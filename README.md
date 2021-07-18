@@ -2,9 +2,12 @@
 # c++ personal reference 
 
 In this repo you can get all souce codes and drawing 
-notes and index list.
+notes and index list of vidos .
 
 
+## prooblem solving 
+* hacker rank -https://www.hackerrank.com/
+* 
 ## Run Locally
 
 Clone the project
