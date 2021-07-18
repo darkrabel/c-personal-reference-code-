@@ -1,0 +1,3 @@
+conditional statement ---> 1.cppp/1alter.cpp
+funtion statement ------>2t.cpp
+pointer ------->3pointer.cpp
