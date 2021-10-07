@@ -10,9 +10,10 @@ public:
     {
         salary = 122;
 
-        cout << "enter the id number  " << endl
-             << endl;
-        cin >> id;
+        cout << "enter the id number  "  << endl;
+        cin >> ;
+         //this orange is one business faheem
+
     }
     void getid(void)
     {
